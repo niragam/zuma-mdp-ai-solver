@@ -2,11 +2,14 @@
 
 This project showcases an AI controller designed to play a variant of the Zuma game. The controller leverages principles inspired by **Markov Decision Processes (MDPs)** to make optimal decisions under uncertainty, aiming to maximize the player's score within a fixed number of steps.
 
+
 ---
 
 ## Project Overview
 
 **Objective:** Develop an intelligent agent capable of analyzing the probabilistic Zuma game environment and selecting the best action (inserting a ball at a specific position or skipping the turn) at each step to achieve the highest possible score.
+
+![zuma](zuma.png)
 
 **Game Variant Mechanics:**
 *   A row of colored balls needs to be cleared by shooting new balls into the row.
